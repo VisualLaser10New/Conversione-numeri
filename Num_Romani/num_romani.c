@@ -1,3 +1,12 @@
+/*
+*
+* Date: 21/09/2021
+*
+* Contributors:
+*   Visual Laser 10 New
+*   Giova-Bell
+*
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
